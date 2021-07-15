@@ -51,7 +51,7 @@ public class CorruptTargetingCore extends BaseHullMod {
                     !ship.getVariant().getHullMods().contains("advancedcore") &&
                     !ship.getVariant().getHullMods().contains("dedicated_targeting_core");
 	}
-        
+        //test
         
 	
 	@Override
